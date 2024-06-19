@@ -1,0 +1,36 @@
+body{
+    font-family: "Noto Nastaliq Urdu", serif;
+    font-size: small;
+}
+
+#demo {
+    background-image: url(../imgs/background.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    height: 100vh;
+}
+
+video {
+    width: 10rem;
+    height: 13rem;
+    position: absolute;
+    bottom: 45%;
+    left: 48%;
+    background-color: transparent;
+}
+
+.title{
+    color: rgb(222, 190, 8);
+    font-family: "Noto Nastaliq Urdu", serif;
+    /* margin-top: -20px; */
+}
+
+.title .pp {
+color: rgb(133, 119, 27);
+margin-bottom: 50px;
+}
+
+.inner {
+padding-bottom: 30px;
+}
