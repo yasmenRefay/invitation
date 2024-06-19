@@ -13,7 +13,7 @@ body{
 
 video {
     width: 10rem;
-    height: 20rem;
+    height: 15rem;
     position: absolute;
     bottom: 45%;
     left: 48%;
@@ -23,7 +23,6 @@ video {
 .title{
     color: rgb(222, 190, 8);
     font-family: "Noto Nastaliq Urdu", serif;
-    /* margin-top: -20px; */
 }
 
 .title .pp {
@@ -32,5 +31,5 @@ margin-bottom: 50px;
 }
 
 .inner {
-padding-bottom: 30px;
+padding-bottom: 60px;
 }
