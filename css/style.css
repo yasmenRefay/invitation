@@ -12,10 +12,10 @@ body{
 }
 
 video {
-    width: 10rem;
-    height: 15rem;
+    width: 15rem;
+    height: 20rem;
     position: absolute;
-    bottom: 45%;
+    bottom: 30%;
     left: 48%;
     background-color: transparent;
 }
